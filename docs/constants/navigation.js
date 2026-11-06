@@ -491,6 +491,7 @@ export const eas = [
     makePage('eas/workflows/introduction.mdx'),
     makePage('eas/workflows/get-started.mdx'),
     makePage('eas/workflows/manage-workflow-runs.mdx'),
+    makePage('eas/workflows/debug-with-ssh.mdx'),
     makePage('eas/workflows/pre-packaged-jobs.mdx'),
     makePage('eas/workflows/syntax.mdx'),
     makePage('eas/workflows/reusable-workflows.mdx'),
